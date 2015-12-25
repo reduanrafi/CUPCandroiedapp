@@ -1,0 +1,44 @@
+#home{
+/*background:url('3.jpg') no-repeat fixed;*/
+background-color:#E7ECF2;
+ 
+
+}
+#home .ui-content{
+width:70%;
+margin:0 auto;
+margin-top:60px;
+
+}
+#home li {
+padding-top:1px;
+border-radius:10px;
+
+}
+#info{
+background:url('3.jpg')no-repeat fixed;
+
+}
+
+#program{
+width:auto%;
+background:url('3.jpg')no-repeat fixed;
+
+}
+#program .ui-content{
+width:70%;
+margin:0 auto;
+margin-top:60px;
+
+border-radius:10px;
+
+}
+#program li {
+padding-top:1px;
+
+
+
+}
+#program .ui-link{
+
+text-align:center;
