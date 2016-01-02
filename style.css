@@ -1,16 +1,41 @@
 #home{
 /*background:url('3.jpg') no-repeat fixed;*/
-background-color:#E7ECF2;
- 
 
+
+background: #FFEEEE; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #FFEEEE , #DDEFBB); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #FFEEEE , #DDEFBB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+                
 }
 #home .ui-content{
 width:70%;
 margin:0 auto;
-margin-top:60px;
+margin-top:20%;
+margin-bottom:25%;
 
 }
 #home li {
+padding-top:1px;
+border-radius:10px;
+
+}
+#tutorial{
+/*background:url('3.jpg') no-repeat fixed;*/
+
+
+background: #FFEEEE; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #FFEEEE , #DDEFBB); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #FFEEEE , #DDEFBB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+                
+}
+#tutorial .ui-content{
+width:70%;
+margin:0 auto;
+margin-top:20%;
+margin-bottom:25%;
+
+}
+#tutorial li {
 padding-top:1px;
 border-radius:10px;
 
@@ -22,7 +47,10 @@ background:url('3.jpg')no-repeat fixed;
 
 #program{
 width:auto%;
-background:url('3.jpg')no-repeat fixed;
+background: #FFEEEE; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #FFEEEE , #DDEFBB); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #FFEEEE , #DDEFBB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+                
 
 }
 #program .ui-content{
@@ -38,7 +66,84 @@ padding-top:1px;
 
 
 
+
 }
 #program .ui-link{
 
 text-align:center;
+}
+#wp{
+	
+	
+
+background: #ddd6f3; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #ddd6f3 , #faaca8); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #ddd6f3 , #faaca8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+}
+#About{
+	
+	
+
+background: #ddd6f3; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #ddd6f3 , #faaca8); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #ddd6f3 , #faaca8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+}
+#contest{
+	
+
+background: #C9FFBF; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #C9FFBF , #FFAFBD); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #C9FFBF , #FFAFBD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+	
+}
+#schedule{
+	
+
+background: #D3959B; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #D3959B , #BFE6BA); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #D3959B , #BFE6BA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+}
+#achievements{
+	
+
+background: #D3959B; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #D3959B , #BFE6BA); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #D3959B , #BFE6BA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+}
+#problem{
+	
+
+background: #DAD299; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #DAD299 , #B0DAB9); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #DAD299 , #B0DAB9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+}
+#online_judge{
+	
+
+background: #EFEFBB; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #EFEFBB , #D4D3DD); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #EFEFBB , #D4D3DD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+}
+#interview{
+	
+
+background: #abbaab; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #abbaab , #ffffff); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #abbaab , #ffffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+	
+}
+#wp .ui-content
+{
+
+margin-left:20%;
+margin-right:20%;
+	
+}
